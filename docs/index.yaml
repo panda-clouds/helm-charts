@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  parse:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-07-01T16:41:17.182841-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 13b85249194a131197dc56af718b16059e438f2ed5c7daf5293284e2554b8384
+    name: parse
+    urls:
+    - https://panda-clouds.github.io/helm-charts/parse-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-07-01T16:41:17.179766-07:00"
